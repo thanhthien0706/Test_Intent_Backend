@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "62ac3bb01af0060e7c80f9e2"
+  },
+  "title": "bai biet",
+  "description": "moo ta",
+  "content": "noi dung",
+  "avatar": "images/1655454640636-image_begin.jpg",
+  "status": "draft",
+  "idUser": {
+    "$oid": "62ac1fbbe215d9cf514b320e"
+  },
+  "idCategory": {
+    "$oid": "62ac2d8f049d37e56bd62234"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655454640664"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1655454640664"
+    }
+  },
+  "__v": 0
+}]

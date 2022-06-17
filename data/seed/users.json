@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "62ac1fbbe215d9cf514b320e"
+  },
+  "userName": "Thành thiện",
+  "email": "thanhthien07062002@gmail.com",
+  "password": "ef951366717e567b187265fe70fb6b4e",
+  "age": 18,
+  "gender": "male",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655447483881"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1655449064562"
+    }
+  },
+  "__v": 0
+}]
